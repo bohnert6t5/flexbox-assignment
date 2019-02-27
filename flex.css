@@ -1,6 +1,8 @@
 /* Box-sizing border-box */
 * { box-sizing: border-box; }
 
+@media screen and (max-width:480px) {}
+@media screen and(max-width:1024px) {}
 
 /* Some default styles to make each box visible. This targets all items with a class that starts with "box" */
 [class^="box"] {

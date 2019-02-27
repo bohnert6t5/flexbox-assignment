@@ -1,0 +1,18 @@
+Git: 
+Git removes the need to copy files to and from shared libraries and your home drive while collaborating on a project
+
+Git can create save points
+
+Git has three stages modified, staged, committed.
+
+Remote repositories are copies that are saved into the cloud
+
+
+
+
+The master branch is your main branch
+Git branch <name> keeps a copy of code with name
+Git branch alone will list all branches 
+Git checkout <branch> tells git to switch branches 
+I think learning to use git will facilitate collaboration because it makes it alot easier for collaborators to acsess your code and edit it in thier own ways while still keeping the main copy intact 
+I understand this at 3 level
